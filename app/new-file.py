@@ -1,1 +1,1 @@
-print("conflict")
+print("HELLO FROM CONFLICT TEST")
